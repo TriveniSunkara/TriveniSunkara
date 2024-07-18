@@ -8,7 +8,8 @@
 <p align="left">
 <a href="https://www.codechef.com/users/trivenisunkara" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="trivenisunkara" height="40" width="50" /></a>
 <a href="https://www.leetcode.com/Triveni_Sunkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="trivenisunkara" height="40" width="50" /></a>
-<a href="https://www.hackerearth.com/trivenisunkara91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="trivenisunkara@91" height="40" width="50" /></a>
+<a href="https://www.hackerrank.com/trivenisunkara91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="trivenisunkara91" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/trivenisunkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="trivenisunkara" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
