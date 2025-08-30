@@ -1,4 +1,4 @@
-<img style="margin-left: 20px;" width=1000 alt="banner" src="[https://camo.githubusercontent.com/e09f5465b7c3ae741c5fc4d4a1f008f38beb35ff5efedcafa16cbfaeca6ed27c/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313036382f302a694a4b526178717857755741515946332e706e67](https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png)">
+<img style="margin-left: 20px;" width=1000 alt="banner" src=""C:\Users\trive\Downloads\githubreadme.png"">
 <h1 align="center">Hi 👋, I'm Triveni Sunkara</h1>
 <h3 align="center">From Classes to Code | Java Lover</h3>
 <img align="right" alt="Coding" width="500" src="https://camo.githubusercontent.com/3612ee9ed74410f8215009e743bde46d2bd74b96bc330563604211dc5f35d4b1/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966">
