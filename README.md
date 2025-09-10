@@ -6,8 +6,6 @@
   <li>🌱 I’m currently learning Java Full Stack</li>
   <li>📫 How to reach me trivenisunkara923@gmail.com</li>
 </ul>
-- 📫 How to reach me trivenisunkara923@gmail.com
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.codechef.com/users/trivenisunkara" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="trivenisunkara" height="40" width="50" /></a>
