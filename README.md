@@ -1,7 +1,7 @@
 <img style="margin-left: 20px;" width=1000 alt="banner" src="C:\Users\trive\Downloads\githubreadme.png">
 <h1 align="center">Hi 👋, I'm Triveni Sunkara</h1>
 <h3 align="center">From Classes to Code | Java Lover</h3>
-<img align="right" alt="Coding" width="500" src="[[https://camo.githubusercontent.com/3612ee9ed74410f8215009e743bde46d2bd74b96bc330563604211dc5f35d4b1/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966]](https://rishavchanda.io/)">
+<img align="right" alt="Coding" width="500" src="https://camo.githubusercontent.com/5119ee303e5e49cdf23def653b737bede0da49a859a34714d62d9ab518afbbb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966">
 - 📫 How to reach me **trivenisunkara923@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
