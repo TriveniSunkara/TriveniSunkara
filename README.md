@@ -1,7 +1,7 @@
 <img style="margin-left: 20px;" width=1000 alt="banner" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 <h1 align="center">Hi 👋, I'm Triveni Sunkara</h1>
 <h3 align="center">From Classes to Code | Java Lover</h3>
-<img align="right" alt="Coding" width="500" src="https://camo.githubusercontent.com/5119ee303e5e49cdf23def653b737bede0da49a859a34714d62d9ab518afbbb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966">
+<img align="right" alt="Coding" width="500" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 - 📫 How to reach me **trivenisunkara923@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
